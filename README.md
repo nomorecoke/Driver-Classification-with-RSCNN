@@ -1,4 +1,4 @@
-# Driver-Classification-with-RSCNN-
+# Driver-Classification-with-RSCNN
 R&amp;D Data challenge Model 
 
 This is basic model for [Hacking and Countermeasure R&D data challenge](http://datachallenge.kr/challenge18/vehicle/introduction/)
