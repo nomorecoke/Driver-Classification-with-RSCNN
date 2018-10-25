@@ -5,6 +5,7 @@ This is basic model for [Hacking and Countermeasure R&D data challenge](http://d
 
 Driver Classification with driving data set
 
-I use RSCNN for final model  <-- you can see at my github for detail RSCNN code
+I use RSCNN for final model  <-- you can see at [my github](https://github.com/nomorecoke/Random-Shuffle-CNN-for-swell-prediction) for detail RSCNN code
 
 Dataset is private, but you can see data processing and model code
+
